@@ -1,0 +1,6 @@
+/venv/bin/
+/venv/include/
+/venv/lib/
+/venv/lib64/
+/venv/share/
+/venv/lib64/python3.8/
